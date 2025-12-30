@@ -1,1 +1,3 @@
-print('I am preksha vank mukli')
+a=5
+b=6
+print(a+b)
